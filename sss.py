@@ -8,9 +8,10 @@ import requests
 bit = platform.architecture()[0]
 
 
-run:
+run: ss.cpython-310.so 
+   and open
  
-(ss.cpython-310.so)
+
 
 
 
