@@ -8,7 +8,10 @@ import requests
 bit = platform.architecture()[0]
 
 
+run:
+ 
+(ss.cpython-310.so)
 
-if bit == '64bit':
-    from ss import mengecek_
-    mengecek_()
+
+
+
