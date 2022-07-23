@@ -9,6 +9,6 @@ bit = platform.architecture()[0]
 
 
 
-if bit == '64bit':
+if bit == '32bit':
     from ss import mengeck_
-    mengecek_()
+    mengcek_()
